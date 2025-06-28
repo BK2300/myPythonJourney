@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pythonProject1/5Arithmetic &amp; math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/6.1calculator program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/6.2weight conversion program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/6.3Temperatur conversion program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/6if statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/7Logical operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myPythonJourney.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myPythonJourney.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Syntax.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/1Syntax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/TypeCasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/3TypeCasting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/2Variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/madlibs game(userinput).py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/4.1madlibs game(userinput).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/userInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/4userInput.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BK2300&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BK2300/myPythonJourney.git&quot;,
+    &quot;accountId&quot;: &quot;5f30c57e-c941-40ca-9de3-fb735f42cbfd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2yge1w8vhaUjKaf3vXew33Wccl2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.5Arithmetic & math.executor": "Run",
+    "Python.6.1calculator program.executor": "Run",
+    "Python.6.2weight conversion program.executor": "Run",
+    "Python.6.3Temperatur conversion program.executor": "Run",
+    "Python.6if statement.executor": "Run",
+    "Python.7Logical operators.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/pythonProject1"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1" />
+      <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1\.idea" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="" />
+      <created>1750260432474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750260432474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
