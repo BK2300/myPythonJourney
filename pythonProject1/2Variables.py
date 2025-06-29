@@ -44,4 +44,31 @@ name = "Ada Lovelace"
 print(name.upper()) #Makes everything uppercaps
 print(name.lower()) #Makes everything lowercaps
 
+# full names
+first_name = "ada"
+last_name = "lovelace"
+full_name = f"{first_name} {last_name}"
+print(f"Hello {full_name.title()}!")
+
+
+# white spaces
+# use \t for tab
+print("\tPython")
+# use \n for newline
+print("Languages:\nPython\nC\nJavascript")
+# Can also be combined
+print("Languages:\n\tPython\n\tC\n\tJavascript")
+
+
+# Removing prefix
+    #good for Removing prefixes in URLs
+nostarch_url = "https://nostarch.com"
+nostarch_url.removeprefix("https://")
+print(f"{nostarch_url}") # nostarch.com is the result
+
+
+
+
+
+
 
