@@ -1,6 +1,6 @@
 # Typecasting = the process of converting a value to one datatype to another
-#       (string, int, float, boolean)
-#        Explicit vs implicit
+#             (string, int, float, boolean)
+#              Explicit vs implicit
 
 name = "Baki"
 age = 29
