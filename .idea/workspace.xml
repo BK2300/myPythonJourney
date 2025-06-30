@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="h">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/2Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/2Variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/10.String indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/10.String indexing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10.String indexing.executor": "Run",
     "Python.2Variables.executor": "Run",
     "Python.5Arithmetic & math.executor": "Run",
     "Python.6.1calculator program.executor": "Run",
@@ -120,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751209027781</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="h">
+      <option name="closed" value="true" />
+      <created>1751239316250</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751239316250</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
