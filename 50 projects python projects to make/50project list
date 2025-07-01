@@ -1,0 +1,63 @@
+🔹 Begynder (1–10)
+Hello World
+Simple Calculator
+Temperaturkonverter (Celsius ↔ Fahrenheit)
+Even/Odd Checker
+Gæt et tal (Number Guessing Game)
+To-Do List i terminalen
+Mad Libs tekstspil
+Vækkeur (Console-version)
+Terningesimulator
+Tipberegner
+
+
+🔹 Tidlig øvelse (11–20)
+Palindrom-tjekker
+Password Generator
+Sten-Saks-Papir
+Enhedskonverter (fx meter ↔ km)
+Valutakonverter (faste rater)
+Simpel quiz (tekstbaseret)
+Countdown Timer
+Notepad med tekstfil-gem
+Hangman-spil
+Kontaktbog (Console)
+
+
+🔹 Lettere mellem-niveau (21–30)
+Web scraper (fx quotes.toscrape.com)
+BMI-beregner
+Random joke generator (med API)
+Vejr-app (med API)
+Flashcard quiz
+Filorganisator (sorter filer i mapper)
+Stopur (Console)
+Tekstbaseret adventure-spil
+Markdown til HTML-konverter
+Regelbaseret chatbot
+
+
+🔹 Mellem-niveau projekter (31–40)
+Flask Hello World-webapp
+GUI To-Do List (Tkinter)
+Billedkonverter (PNG ↔ JPG)
+Udgiftstracker (CSV-baseret)
+Lokalt Password Manager
+Simpelt krypteringsværktøj
+Typetest
+Tic-Tac-Toe (2 spillere)
+Tic-Tac-Toe med AI (Minimax)
+Markdown blog-generator (statisk)
+
+
+🔹 Avanceret (41–50)
+REST API med Flask
+GUI-dashboard med vejrdata
+PDF-merger-værktøj
+Notes-app med SQLite
+YouTube-downloader (pytube)
+Webcrawler (fx intern linksøgning)
+Filmsøger (OMDb API)
+Datavisualisering fra CSV (matplotlib)
+Portfolio-webside med Flask
+Mini ML-model (Iris Classifier)

@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="h">
+      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/1. Hello world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/2 calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/3 temperatur converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/4 even checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/50project list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/11 format specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/12While loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/10.String indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/10.String indexing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1. Hello world.executor": "Run",
     "Python.10.String indexing.executor": "Run",
+    "Python.11 format specifiers.executor": "Run",
+    "Python.12While loops.executor": "Run",
     "Python.2Variables.executor": "Run",
     "Python.5Arithmetic & math.executor": "Run",
     "Python.6.1calculator program.executor": "Run",
@@ -69,6 +78,7 @@
       <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\50 projects python projects to make" />
       <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1" />
       <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1\.idea" />
     </key>
@@ -129,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751239316250</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="h">
+      <option name="closed" value="true" />
+      <created>1751303325601</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751303325601</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
