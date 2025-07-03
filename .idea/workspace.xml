@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="h">
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/1. Hello world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/2 calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/3 temperatur converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/4 even checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/50project list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject1/11 format specifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject1/12While loops.py" afterDir="false" />
+    <list default="true" id="af9478ef-0dd0-4d7a-a5cc-3554ef7640f4" name="Changes" comment="l">
+      <change afterPath="$PROJECT_DIR$/pythonProject1/13. for loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,140 +23,75 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;BK2300&quot;
-  }
-}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/BK2300/myPythonJourney.git&quot;,
-    &quot;accountId&quot;: &quot;5f30c57e-c941-40ca-9de3-fb735f42cbfd&quot;
+    &quot;accountId&quot;: &quot;90b2dc4f-78bd-41b6-a93e-188d2d0f5d94&quot;
   }
 }</component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="2yge1w8vhaUjKaf3vXew33Wccl2" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2zN59Zn0UycOJOjMNg57azkl3WL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.1. Hello world.executor": "Run",
-    "Python.10.String indexing.executor": "Run",
-    "Python.11 format specifiers.executor": "Run",
-    "Python.12While loops.executor": "Run",
-    "Python.2Variables.executor": "Run",
-    "Python.5Arithmetic & math.executor": "Run",
-    "Python.6.1calculator program.executor": "Run",
-    "Python.6.2weight conversion program.executor": "Run",
-    "Python.6.3Temperatur conversion program.executor": "Run",
-    "Python.6if statement.executor": "Run",
-    "Python.7Logical operators.executor": "Run",
-    "Python.8conditional expressions.executor": "Run",
-    "Python.9 string methods.executor": "Run",
+    "Python.13. for loops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/pythonProject1"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\50 projects python projects to make" />
-      <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1" />
-      <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1\.idea" />
+      <recent name="C:\Users\BTusk\Desktop\myPythonJourney\pythonProject1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="13. for loops" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="myPythonJourney" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject1/13. for loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="" />
-      <created>1750260432474</created>
+      <created>1751558853418</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1750260432474</updated>
+      <updated>1751558853418</updated>
     </task>
-    <task id="LOCAL-00001" summary="h">
-      <option name="closed" value="true" />
-      <created>1751126860502</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1751126860502</updated>
-    </task>
-    <task id="LOCAL-00002" summary="h">
-      <option name="closed" value="true" />
-      <created>1751126873059</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1751126873059</updated>
-    </task>
-    <task id="LOCAL-00003" summary="h">
-      <option name="closed" value="true" />
-      <created>1751208962218</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1751208962218</updated>
-    </task>
-    <task id="LOCAL-00004" summary="h">
-      <option name="closed" value="true" />
-      <created>1751209027781</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1751209027781</updated>
-    </task>
-    <task id="LOCAL-00005" summary="h">
-      <option name="closed" value="true" />
-      <created>1751239316250</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1751239316250</updated>
-    </task>
-    <task id="LOCAL-00006" summary="h">
-      <option name="closed" value="true" />
-      <created>1751303325601</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1751303325601</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="h" />
-    <option name="LAST_COMMIT_MESSAGE" value="h" />
+    <MESSAGE value="l" />
+    <option name="LAST_COMMIT_MESSAGE" value="l" />
   </component>
 </project>
