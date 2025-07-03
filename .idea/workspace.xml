@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="h">
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/1. Hello world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/2 calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/3 temperatur converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/4 even checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50 projects python projects to make/50project list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject1/11 format specifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject1/12While loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/13.1 countdown timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/14 nested loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject1/15 lists. sets. tuplets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/11 format specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/11 format specifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/13 for loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/13. for loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/13. for loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,9 @@
     "Python.10.String indexing.executor": "Run",
     "Python.11 format specifiers.executor": "Run",
     "Python.12While loops.executor": "Run",
+    "Python.13. for loops.executor": "Run",
+    "Python.13.1 countdown timer.executor": "Run",
+    "Python.14 nested loops.executor": "Run",
     "Python.2Variables.executor": "Run",
     "Python.5Arithmetic & math.executor": "Run",
     "Python.6.1calculator program.executor": "Run",
@@ -70,7 +72,8 @@
     "Python.9 string methods.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/pythonProject1"
+    "last_opened_file_path": "C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/pythonProject1",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">

@@ -24,7 +24,7 @@ print(f"Price 2 is ${price2:.2f}")
 print(f"Price 2 is ${price2:10}") #makes it looking clean. Like creating a wall and the numbers lean against them
 print(f"Price 3 is ${price3:10}")
 
-# print(f"Price 2 is ${price2:010}") #is you add a 0. the empty spaces vill becomes zeros
+# print(f"Price 2 is ${price2:010}") #this add 0's in the empty spaces
 # print(f"Price 3 is ${price3:010}") #saw it irrelevant, so i removed it. but you can test it yourself
 
 print(f"Price 2 is ${price1:<10}") #these nubmers are left justified. so the empty spaces comes after the numbers.
@@ -44,6 +44,6 @@ print(f"Price 2 is ${price2: }")
 
 print(f"Price 4 is ${price4:,}") #thousands are seperated with a comma
 print(f"Price 5 is ${price5:,}") #makes sure there is no space after the comma!
-print(f"Price 4 is ${price4:+,.2f}") #we want a plussign in front. with a thousand seperator and 2 decimal points
+print(f"Price 4 is ${price4:+,.2f}") #we want a plus sign in front. with a thousand seperator and 2 decimal points
 print(f"Price 5 is ${price5:+,.2f}")
 
