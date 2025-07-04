@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="h">
-      <change afterPath="$PROJECT_DIR$/pythonProject1/15.1 shoppping cart program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject1/16 2D collections.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/15 lists. sets. tuplets.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/15 lists. sets. tuplets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/16 2D collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/16 2D collections.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,7 @@
     "Python.14 nested loops.executor": "Run",
     "Python.15 lists. sets. tuplets.executor": "Run",
     "Python.15.1 shoppping cart program.executor": "Run",
+    "Python.16 2D collections.executor": "Run",
     "Python.2Variables.executor": "Run",
     "Python.5Arithmetic & math.executor": "Run",
     "Python.6.1calculator program.executor": "Run",
@@ -157,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751582470500</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="h">
+      <option name="closed" value="true" />
+      <created>1751624508414</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1751624508414</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
