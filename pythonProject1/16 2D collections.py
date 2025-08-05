@@ -17,7 +17,7 @@ for collection in groceries: #nested loops
         print(food, end= " ") #print(food) alone is vertical. end= " " makes it horizontal
     print() #suddenly makes it a grid looking. like above
 
-print(f"\n") #just ekstra to seperate the lesson from the exercise
+print(f"\n") #just an extra to seperate the lesson from the exercise
 
     ### quick exercise
 num_pad = ((1, 2, 3),

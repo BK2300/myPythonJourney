@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="h">
+      <change afterPath="$PROJECT_DIR$/pythonProject1/16.1 quiz game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_06_2025_15_54_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_06_2025_15_54__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pythonProject1/16 2D collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/16 2D collections.py" afterDir="false" />
     </list>
@@ -59,6 +62,7 @@
     "Python.15 lists. sets. tuplets.executor": "Run",
     "Python.15.1 shoppping cart program.executor": "Run",
     "Python.16 2D collections.executor": "Run",
+    "Python.16.1 quiz game.executor": "Run",
     "Python.2Variables.executor": "Run",
     "Python.5Arithmetic & math.executor": "Run",
     "Python.6.1calculator program.executor": "Run",
@@ -164,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751624508414</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="h">
+      <option name="closed" value="true" />
+      <created>1751648045009</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751648045009</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
