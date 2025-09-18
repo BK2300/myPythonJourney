@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="h">
-      <change afterPath="$PROJECT_DIR$/pythonProject1/16.1 quiz game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_06_2025_15_54_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_06_2025_15_54__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/0. intro to numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/1. multidimensional arrays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/16 2D collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/16 2D collections.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.0. intro to numpy.executor": "Run",
     "Python.1. Hello world.executor": "Run",
+    "Python.1. multidimensional arrays.executor": "Run",
     "Python.10.String indexing.executor": "Run",
     "Python.11 format specifiers.executor": "Run",
     "Python.12While loops.executor": "Run",
@@ -91,7 +91,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+        <option value="bundled-python-sdk-af26db0dccfe-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.26775.22" />
       </set>
     </attachedChunks>
   </component>
@@ -176,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751648045009</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="h">
+      <option name="closed" value="true" />
+      <created>1754406884084</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754406884084</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
