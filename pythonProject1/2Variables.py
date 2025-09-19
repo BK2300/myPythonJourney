@@ -7,7 +7,7 @@ food = "Durum"
 status = "student"
 email = "BigD@gmail.com"
 
-print(first_name) # importan not use use qoutes " ". coz then you're printing the string...
+print(first_name) # important not use use qoutes " ". coz then you're printing the string...
                     # not what the string is assigned to
 
 #if you want to use your variable along with some text. then you use a formatted string(f-string)
@@ -25,7 +25,7 @@ GPA = 7,5
 print(f"you're {age} years old")
 print(f"you're buying {quantity} cakes for {num_of_students} students, its going to cost you {price_of_cakes} each")
 
-# Boolean (in generelt its going to be easier if you ask yourself that vquestion first)
+# Boolean (in generelt its going to be easier if you ask yourself that question first)
 is_student = False #Always Capital
 for_sale = True
 
