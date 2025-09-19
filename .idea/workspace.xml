@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="h">
+    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="numpy journey">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/myPythonJourney.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myPythonJourney.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/2. slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/intro to pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/0. intro to pandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/2Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/2Variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,9 @@
     &quot;accountId&quot;: &quot;5f30c57e-c941-40ca-9de3-fb735f42cbfd&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -51,34 +51,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1. Hello world.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10.String indexing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11 format specifiers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12While loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13. for loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.1 countdown timer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14 nested loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15 lists. sets. tuplets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15.1 shoppping cart program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16 2D collections.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.1 quiz game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5Arithmetic &amp; math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1calculator program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2weight conversion program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.3Temperatur conversion program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6if statement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7Logical operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8conditional expressions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9 string methods.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/pythonProject1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.0. intro to numpy.executor": "Run",
+    "Python.1. Hello world.executor": "Run",
+    "Python.1. multidimensional arrays.executor": "Run",
+    "Python.10.String indexing.executor": "Run",
+    "Python.11 format specifiers.executor": "Run",
+    "Python.12While loops.executor": "Run",
+    "Python.13. for loops.executor": "Run",
+    "Python.13.1 countdown timer.executor": "Run",
+    "Python.14 nested loops.executor": "Run",
+    "Python.15 lists. sets. tuplets.executor": "Run",
+    "Python.15.1 shoppping cart program.executor": "Run",
+    "Python.16 2D collections.executor": "Run",
+    "Python.16.1 quiz game.executor": "Run",
+    "Python.2Variables.executor": "Run",
+    "Python.5Arithmetic & math.executor": "Run",
+    "Python.6.1calculator program.executor": "Run",
+    "Python.6.2weight conversion program.executor": "Run",
+    "Python.6.3Temperatur conversion program.executor": "Run",
+    "Python.6if statement.executor": "Run",
+    "Python.7Logical operators.executor": "Run",
+    "Python.8conditional expressions.executor": "Run",
+    "Python.9 string methods.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/pythonProject1",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1" />
@@ -92,7 +96,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
@@ -177,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751648045009</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="h">
+      <option name="closed" value="true" />
+      <created>1754406884084</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754406884084</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
