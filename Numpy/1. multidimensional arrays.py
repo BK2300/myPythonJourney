@@ -14,7 +14,7 @@ array = np.array([[["A", "B", "C"], ["D", "E", "F"], ["G", "H", "I"]],
 # We ran out of Letter. this will give us a error. We need a concisten amount of letters in each element
 
 print(array.ndim) #ndim mean "number of dimensions" of our array
-print(array.shape) #this gives us access to the shape of the attribute. first number will give you "the depth(like oberservations). the number of rows. the number of columns"
+print(array.shape) #this gives us access to the shape of the attribute. first number will give you "the depth (like oberservations). the number of rows. the number of columns"
 
 # with a python list, you would access a list like this to get "A".
 # print([0],[0],[0]) #this is called "chain-indexing". good to play with it.
