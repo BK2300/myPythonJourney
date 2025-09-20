@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="numpy journey">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/myPythonJourney.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myPythonJourney.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/3. arithmetic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/1. multidimensional arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/1. multidimensional arrays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Numpy/2. slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/2. slicing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +68,7 @@
     "Python.16.1 quiz game.executor": "Run",
     "Python.2. slicing.executor": "Run",
     "Python.2Variables.executor": "Run",
+    "Python.3. arithmetic.executor": "Run",
     "Python.5Arithmetic & math.executor": "Run",
     "Python.6.1calculator program.executor": "Run",
     "Python.6.2weight conversion program.executor": "Run",
@@ -209,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758326082656</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="numpy journey">
+      <option name="closed" value="true" />
+      <created>1758329314381</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1758329314381</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

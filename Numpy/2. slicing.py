@@ -1,3 +1,5 @@
+    ## imagen having a matrix of data with rows an columns. slicing is like picking specificly whatever you want in the matrix
+
 import numpy as np
 
 array = np.array([[1,2,3,4],
