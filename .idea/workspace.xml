@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="numpy journey">
-      <change afterPath="$PROJECT_DIR$/Numpy/3. arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/4. broadcasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/5. aggregate functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/2. slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/2. slicing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,8 @@
     "Python.2. slicing.executor": "Run",
     "Python.2Variables.executor": "Run",
     "Python.3. arithmetic.executor": "Run",
+    "Python.4. broadcasting.executor": "Run",
+    "Python.5. aggregate functions.executor": "Run",
     "Python.5Arithmetic & math.executor": "Run",
     "Python.6.1calculator program.executor": "Run",
     "Python.6.2weight conversion program.executor": "Run",
@@ -215,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758329314381</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="numpy journey">
+      <option name="closed" value="true" />
+      <created>1758365485621</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1758365485621</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
