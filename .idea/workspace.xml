@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="numpy journey">
-      <change afterPath="$PROJECT_DIR$/Numpy/6. filtering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy/7. random numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/0. intro to pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/1. series.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,7 @@
     "Python.0. intro to numpy.executor": "Run",
     "Python.1. Hello world.executor": "Run",
     "Python.1. multidimensional arrays.executor": "Run",
+    "Python.1. series.executor": "Run",
     "Python.10.String indexing.executor": "Run",
     "Python.11 format specifiers.executor": "Run",
     "Python.12While loops.executor": "Run",
@@ -235,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758486502421</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="numpy journey">
+      <option name="closed" value="true" />
+      <created>1758536157342</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1758536157342</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
