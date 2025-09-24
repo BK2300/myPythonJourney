@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="numpy journey">
+    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Panda journey">
+      <change afterPath="$PROJECT_DIR$/pandas/3. importing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/0. intro to pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/1. series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/2. Dataframes.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/2. Dataframes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,7 @@
     "Python.15.1 shoppping cart program.executor": "Run",
     "Python.16 2D collections.executor": "Run",
     "Python.16.1 quiz game.executor": "Run",
+    "Python.2. Dataframes.executor": "Run",
     "Python.2. slicing.executor": "Run",
     "Python.2Variables.executor": "Run",
     "Python.3. arithmetic.executor": "Run",
@@ -243,7 +245,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758536157342</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Panda journey">
+      <option name="closed" value="true" />
+      <created>1758572591176</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1758572591176</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Panda journey">
+      <option name="closed" value="true" />
+      <created>1758572618093</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1758572618093</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +278,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="h" />
     <MESSAGE value="numpy journey" />
-    <option name="LAST_COMMIT_MESSAGE" value="numpy journey" />
+    <MESSAGE value="Panda journey" />
+    <option name="LAST_COMMIT_MESSAGE" value="Panda journey" />
   </component>
 </project>
