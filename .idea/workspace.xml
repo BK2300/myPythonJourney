@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Panda journey">
-      <change afterPath="$PROJECT_DIR$/pandas/3. importing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/4. selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/PokemonData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pokemonData.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/2. Dataframes.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/2. Dataframes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/3. importing.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/3. importing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,9 @@
     "Python.2. slicing.executor": "Run",
     "Python.2Variables.executor": "Run",
     "Python.3. arithmetic.executor": "Run",
+    "Python.3. importing.executor": "Run",
     "Python.4. broadcasting.executor": "Run",
+    "Python.4. selection.executor": "Run",
     "Python.5. aggregate functions.executor": "Run",
     "Python.5Arithmetic & math.executor": "Run",
     "Python.6. filtering.executor": "Run",
@@ -87,12 +91,13 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/pythonProject1",
+    "last_opened_file_path": "C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/pandas",
     "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pandas" />
       <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\pythonProject1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -261,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758572618093</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Panda journey">
+      <option name="closed" value="true" />
+      <created>1758725411937</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1758725411937</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
