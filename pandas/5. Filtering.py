@@ -11,10 +11,8 @@ df = pd.read_csv("pokemonData.csv")
 # legendary_pokemon = df[df["Legendary"] == 1] #The boolean value for 1 is "True", so we could also write true instead of 1
 #water_pokemon = df[(df["Type1"] == "Water")|
 #                  (df["Type2"] == "Water")] #This scrip searches for water pokemon as first or second type. We used the logical "or / |" operator
-ff_pokemon = df[(df["Type1"] == "Fire" ) &
+ff_pokemon = df[(df["Type1"] == "Fire") &
                 (df["Type2"] == "Flying")] #"This is a "and" operator. we need both conditions to be filled out
-
-
 
 
 print(ff_pokemon)
