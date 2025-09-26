@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Panda journey">
-      <change afterPath="$PROJECT_DIR$/pandas/7. Data cleaning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/6. Aggregation.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/6. Aggregation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/7. Data cleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/7. Data cleaning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,7 @@
     "Python.6.2weight conversion program.executor": "Run",
     "Python.6.3Temperatur conversion program.executor": "Run",
     "Python.6if statement.executor": "Run",
-    "Python.7. Data cleaning.executor": "Debug",
+    "Python.7. Data cleaning.executor": "Run",
     "Python.7. random numbers.executor": "Run",
     "Python.7Logical operators.executor": "Run",
     "Python.8conditional expressions.executor": "Run",
@@ -299,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758839326818</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Panda journey">
+      <option name="closed" value="true" />
+      <created>1758882342333</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1758882342333</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
