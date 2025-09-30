@@ -2,7 +2,7 @@
 
 questions = ("How many elements are in the periodic table?: ",
             "Which animal lays the largest eggs?: ",
-            "What is thje most abundant gas in earth's atmosphere?: ",
+            "What is the most abundant gas in earth's atmosphere?: ",
             "How many bones are in the human body?: ",
             "Which planet in the solar system is the hottest?: ")
 

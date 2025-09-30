@@ -30,7 +30,7 @@ print(f"The are of the rectangle is:{area} cm^2")
 #Exercise 2
     #shpping cart program
 item = input("What item would you like to buy today?: ")
-price = float(input("What is the price of that item?: ")) #here we typcasted it to a float again, since prices often have decimals points
+price = float(input("What is the price of that item?: ")) #here we typecasted it to a float again, since prices often have decimals points
 quantity = int(input("How many would you like to buy?: ")) #this time is typically whole numbers, so we use int
 total = price * quantity
 

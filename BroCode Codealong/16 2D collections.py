@@ -1,4 +1,4 @@
-# 2d lists = a list of a lists
+# 2d lists = a list made of lists
 
     # imagen if you had its set up as rows and colums
 fruits =     ["apple", "orange", "banana", "coconut"]

@@ -6,9 +6,9 @@ while name == "":
     print("You did not enter your name")
     name = input("Enter your name: ")
 print(f"Hello {name}")
-# this comand ask us to prompt our name. and if you keep pressing anything else then a string,
-#   then if asks again and again until you do it correct
-# carefull! if you dont have a way to stop the whileloop. your are in a infinite loop...
+# this command ask us to prompt our name. and if you keep pressing anything else then a string,
+#   then if asks again and again until you type in something
+# carefull! if you dont have a way to escape the whileloop. your are in a infinite loop...
 
 age = int(input("Enter your age: "))
 
@@ -27,7 +27,7 @@ print("bye")
 
 num = int(input("Enter a # between 1 - 10: "))
 
-while num < 1 or num > 10
+while num < 1 or num > 10:
     print(f"{num} is not valid")
     num = int(input("Enter a # between 1 - 10: "))
 print (f"Your number is {num}")
