@@ -4,41 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Panda journey">
-      <change afterPath="$PROJECT_DIR$/BroCode Codealong/17. dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_09_2025_01_21_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_09_2025_01_21__Changes_.xml" beforeDir="false" />
+    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Code along with brocode">
+      <change afterPath="$PROJECT_DIR$/Matplotlib/0 intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/1. custom plots.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/.idea/pythonProject1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/10.String indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/10.String indexing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/11 format specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/11 format specifiers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/12.1compound interest calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/12.1compound interest calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/12While loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/12While loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/13. for loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/13. for loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/13.1 countdown timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/13.1 countdown timer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/14 nested loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/14 nested loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/15 lists. sets. tuplets.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/15 lists. sets. tuplets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/15.1 shoppping cart program.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/15.1 shoppping cart program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/16 2D collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/16 2D collections.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/16.1 quiz game.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/16.1 quiz game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/1Syntax.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/1Syntax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/2Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/2Variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/3TypeCasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/3TypeCasting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/4.1madlibs game(userinput).py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/4.1madlibs game(userinput).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/4userInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/4userInput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/5Arithmetic &amp; math.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/5Arithmetic &amp; math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/6.1calculator program.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/6.1calculator program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/6.2weight conversion program.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/6.2weight conversion program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/6.3Temperatur conversion program.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/6.3Temperatur conversion program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/6if statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/6if statement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/7Logical operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/7Logical operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/8conditional expressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/8conditional expressions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/9 string methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/9 string methods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +53,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.0 intro.executor": "Run",
     "Python.0. intro to numpy.executor": "Run",
     "Python.1. Hello world.executor": "Run",
+    "Python.1. custom plots.executor": "Run",
     "Python.1. multidimensional arrays.executor": "Run",
     "Python.1. series.executor": "Run",
     "Python.10.String indexing.executor": "Run",
@@ -347,7 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758883543516</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Code along with brocode">
+      <option name="closed" value="true" />
+      <created>1759270156628</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1759270156628</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Code along with brocode">
+      <option name="closed" value="true" />
+      <created>1759270520415</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1759270520415</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -365,6 +352,7 @@
     <MESSAGE value="h" />
     <MESSAGE value="numpy journey" />
     <MESSAGE value="Panda journey" />
-    <option name="LAST_COMMIT_MESSAGE" value="Panda journey" />
+    <MESSAGE value="Code along with brocode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code along with brocode" />
   </component>
 </project>
