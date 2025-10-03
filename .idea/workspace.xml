@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Code along with brocode. matplotlib">
-      <change afterPath="$PROJECT_DIR$/Matplotlib/3. Gridlines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/4. bar charts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/2. Labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matplotlib/2. Labels.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +76,7 @@
     "Python.3. Gridlines.executor": "Run",
     "Python.3. arithmetic.executor": "Run",
     "Python.3. importing.executor": "Run",
+    "Python.4. bar charts.executor": "Run",
     "Python.4. broadcasting.executor": "Run",
     "Python.4. selection.executor": "Run",
     "Python.5. Filtering.executor": "Run",
@@ -344,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759438275542</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Code along with brocode. matplotlib">
+      <option name="closed" value="true" />
+      <created>1759486917418</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1759486917418</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
