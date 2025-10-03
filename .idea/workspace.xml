@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Code along with brocode">
-      <change afterPath="$PROJECT_DIR$/Matplotlib/0 intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/1. custom plots.py" afterDir="false" />
+    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Code along with brocode. matplotlib">
+      <change afterPath="$PROJECT_DIR$/Matplotlib/3. Gridlines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matplotlib/2. Labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matplotlib/2. Labels.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +71,10 @@
     "Python.16.1 quiz game.executor": "Run",
     "Python.17. dictionaries.executor": "Run",
     "Python.2. Dataframes.executor": "Run",
+    "Python.2. Labels.executor": "Run",
     "Python.2. slicing.executor": "Run",
     "Python.2Variables.executor": "Run",
+    "Python.3. Gridlines.executor": "Run",
     "Python.3. arithmetic.executor": "Run",
     "Python.3. importing.executor": "Run",
     "Python.4. broadcasting.executor": "Run",
@@ -334,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759270520415</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Code along with brocode. matplotlib">
+      <option name="closed" value="true" />
+      <created>1759438275542</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1759438275542</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,6 +363,7 @@
     <MESSAGE value="numpy journey" />
     <MESSAGE value="Panda journey" />
     <MESSAGE value="Code along with brocode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code along with brocode" />
+    <MESSAGE value="Code along with brocode. matplotlib" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code along with brocode. matplotlib" />
   </component>
 </project>
