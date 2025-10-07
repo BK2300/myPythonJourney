@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Code along with brocode. matplotlib">
-      <change afterPath="$PROJECT_DIR$/Matplotlib/7. Histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/8. subplots.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +94,7 @@
     "Python.7. Histogram.executor": "Run",
     "Python.7. random numbers.executor": "Run",
     "Python.7Logical operators.executor": "Run",
+    "Python.8. subplots.executor": "Run",
     "Python.8conditional expressions.executor": "Run",
     "Python.9 string methods.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -371,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759699722035</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Code along with brocode. matplotlib">
+      <option name="closed" value="true" />
+      <created>1759765894311</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1759765894311</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
