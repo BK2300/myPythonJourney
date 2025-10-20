@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Code along with brocode. matplotlib">
-      <change afterPath="$PROJECT_DIR$/Matplotlib/9. pd + plt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/pokemonData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode Codealong/x. Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroCode Codealong/12While loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/12 While loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroCode Codealong/4userInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/4 userInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BroCode Codealong/15 lists. sets. tuplets.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/15 lists. sets. tuplets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BroCode Codealong/17. dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/17. dictionaries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +100,7 @@
     "Python.8conditional expressions.executor": "Run",
     "Python.9 string methods.executor": "Run",
     "Python.9. pd + plt.executor": "Run",
+    "Python.x. Functions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -124,7 +124,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
@@ -393,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759874276210</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Code along with brocode. matplotlib">
+      <option name="closed" value="true" />
+      <created>1760001340400</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1760001340400</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,4 +1,4 @@
-# Dictionary = a collectionsof {key:value} pairs
+# Dictionary = a collections of {key:value} pairs
 #              ordered and changeable. No duplicates
 from matplotlib.typing import CapStyleType
 
@@ -8,7 +8,7 @@ capitals = {"USA": "Washington D.C",
             "Russia": "Moscow"}
 
     #If you want to see the difference attributes and methods of a dictionary, use the dir-function:
-    # (But you can also use help  function, which is more in depth
+    # (But you can also use help function, which is more in depth
 #print(dir(capitals))
 
 #the capital associated with our contries from our list

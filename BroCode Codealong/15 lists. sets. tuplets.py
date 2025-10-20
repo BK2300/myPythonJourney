@@ -46,7 +46,6 @@
     # fruits.clear() #the elements of our value is gone
 
 
-
 fruits = ("Apple", "Banana", "Orange", "Coconut", "Coconut")
 # print(dir(fruits))
 # print(help(fruits))
