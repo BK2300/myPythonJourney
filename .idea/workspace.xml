@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Code along with brocode. matplotlib">
-      <change afterPath="$PROJECT_DIR$/BroCode Codealong/x. Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Indently/Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Indently/Initialisers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Indently/Self.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroCode Codealong/15 lists. sets. tuplets.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/15 lists. sets. tuplets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroCode Codealong/17. dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode Codealong/17. dictionaries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +100,7 @@
     "Python.8conditional expressions.executor": "Run",
     "Python.9 string methods.executor": "Run",
     "Python.9. pd + plt.executor": "Run",
+    "Python.Classes.executor": "Run",
     "Python.x. Functions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -401,7 +402,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760001340400</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Code along with brocode. matplotlib">
+      <option name="closed" value="true" />
+      <created>1760994646676</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1760994646676</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
