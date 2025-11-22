@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="Code along with brocode. matplotlib">
-      <change afterPath="$PROJECT_DIR$/OOP/Indently/Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Indently/Initialisers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Indently/Self.py" afterDir="false" />
+    <list default="true" id="3a5d2d84-506a-407e-8a3d-9827a1d0259d" name="Changes" comment="OOP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,64 +49,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.0 intro.executor": "Run",
-    "Python.0. intro to numpy.executor": "Run",
-    "Python.1. Hello world.executor": "Run",
-    "Python.1. custom plots.executor": "Run",
-    "Python.1. multidimensional arrays.executor": "Run",
-    "Python.1. series.executor": "Run",
-    "Python.10.String indexing.executor": "Run",
-    "Python.11 format specifiers.executor": "Run",
-    "Python.12While loops.executor": "Run",
-    "Python.13. for loops.executor": "Run",
-    "Python.13.1 countdown timer.executor": "Run",
-    "Python.14 nested loops.executor": "Run",
-    "Python.15 lists. sets. tuplets.executor": "Run",
-    "Python.15.1 shoppping cart program.executor": "Run",
-    "Python.16 2D collections.executor": "Run",
-    "Python.16.1 quiz game.executor": "Run",
-    "Python.17. dictionaries.executor": "Run",
-    "Python.2. Dataframes.executor": "Run",
-    "Python.2. Labels.executor": "Run",
-    "Python.2. slicing.executor": "Run",
-    "Python.2Variables.executor": "Run",
-    "Python.3. Gridlines.executor": "Run",
-    "Python.3. arithmetic.executor": "Run",
-    "Python.3. importing.executor": "Run",
-    "Python.4. bar charts.executor": "Run",
-    "Python.4. broadcasting.executor": "Run",
-    "Python.4. selection.executor": "Run",
-    "Python.5. Filtering.executor": "Run",
-    "Python.5. aggregate functions.executor": "Run",
-    "Python.5. bar chart.executor": "Run",
-    "Python.5Arithmetic & math.executor": "Run",
-    "Python.6. Aggregation.executor": "Run",
-    "Python.6. filtering.executor": "Run",
-    "Python.6. scatterplots.executor": "Run",
-    "Python.6.1calculator program.executor": "Run",
-    "Python.6.2weight conversion program.executor": "Run",
-    "Python.6.3Temperatur conversion program.executor": "Run",
-    "Python.6if statement.executor": "Run",
-    "Python.7. Data cleaning.executor": "Run",
-    "Python.7. Histogram.executor": "Run",
-    "Python.7. random numbers.executor": "Run",
-    "Python.7Logical operators.executor": "Run",
-    "Python.8. subplots.executor": "Run",
-    "Python.8conditional expressions.executor": "Run",
-    "Python.9 string methods.executor": "Run",
-    "Python.9. pd + plt.executor": "Run",
-    "Python.Classes.executor": "Run",
-    "Python.x. Functions.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/Matplotlib",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.0 intro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0. intro to numpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Hello world.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. custom plots.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. multidimensional arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.String indexing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11 format specifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12While loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13. for loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.1 countdown timer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 nested loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15 lists. sets. tuplets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.1 shoppping cart program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16 2D collections.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.1 quiz game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17. dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Dataframes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Labels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Gridlines.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. importing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. bar charts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. broadcasting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. selection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. Filtering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. aggregate functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. bar chart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5Arithmetic &amp; math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. Aggregation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. filtering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. scatterplots.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.1calculator program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2weight conversion program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.3Temperatur conversion program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6if statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7. Data cleaning.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7. Histogram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7. random numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7Logical operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8. subplots.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8conditional expressions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9 string methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9. pd + plt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x. Functions.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/BK230/PycharmProjects/helloworld/myPythonJourney/Matplotlib&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\BK230\PycharmProjects\helloworld\myPythonJourney\Matplotlib" />
@@ -410,7 +407,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760994646676</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="OOP">
+      <option name="closed" value="true" />
+      <created>1762558359750</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1762558359750</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,6 +435,7 @@
     <MESSAGE value="Panda journey" />
     <MESSAGE value="Code along with brocode" />
     <MESSAGE value="Code along with brocode. matplotlib" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code along with brocode. matplotlib" />
+    <MESSAGE value="OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
   </component>
 </project>
